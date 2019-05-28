@@ -6,7 +6,6 @@ int main (){
     float medias;
     
     while (contador <= 6){
-
         
         printf  ("\nDigite a nota 1 do aluno %i\n", x);
         scanf ("%i", &n1);
